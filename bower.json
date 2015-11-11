@@ -1,0 +1,28 @@
+{
+  "name": "CursoPHP_Hack",
+  "version": "0.0.0",
+  "homepage": "https://github.com/matias-pierobon/CursoPHP",
+  "authors": [
+    "Matias Pierobon <matias.pierobonm@gmail.com>"
+  ],
+  "description": "Pagina del curso de php para hackerar",
+  "main": "web/index.php",
+  "moduleType": [],
+  "keywords": [
+    "PHP"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design": "~0.3.0",
+    "animate.css": "~3.4.0"
+  }
+}
