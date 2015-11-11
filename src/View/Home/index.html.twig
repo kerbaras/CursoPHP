@@ -1,0 +1,10 @@
+{% extends 'layout.html.twig' %}
+
+{% block main %}
+  <h1>Hola mundo!</h1>
+  {% for noticia in noticias %}
+    <li>{{ noticia.titulo }}</li>
+  {% else %}
+    <li> No hay noticias </li>
+  {% endfor %}
+{% endblock %}
