@@ -23,6 +23,7 @@
   "dependencies": {
     "bootstrap": "~3.3.5",
     "bootstrap-material-design": "~0.3.0",
-    "animate.css": "~3.4.0"
+    "animate.css": "~3.4.0",
+    "less": "~2.5.3"
   }
 }
